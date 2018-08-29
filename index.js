@@ -10,7 +10,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal = 'cat';
   
-  console.log 
+  console.log ('${animal}')
 }
 
 function add2(n) {
